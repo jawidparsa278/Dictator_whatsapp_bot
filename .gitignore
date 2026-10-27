@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+logs/
+*.log
+npm-debug.log*
+kingbadboitimewisher/pairing/*
+!kingbadboitimewisher/pairing/.gitkeep
+database/auth.json
